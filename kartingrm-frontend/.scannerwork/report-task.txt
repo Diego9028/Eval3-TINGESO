@@ -1,0 +1,6 @@
+projectKey=kartingRM-Front
+serverUrl=http://localhost:9000
+serverVersion=25.7.0.110598
+dashboardUrl=http://localhost:9000/dashboard?id=kartingRM-Front
+ceTaskId=bcd98927-bfd5-4bfb-b96e-c0c899c6f244
+ceTaskUrl=http://localhost:9000/api/ce/task?id=bcd98927-bfd5-4bfb-b96e-c0c899c6f244
